@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aingaRamangalahy. 
-- 👉 Fullstack developer with interest on Javascript (MEAN stack),  but also write Java (Spring Boot) 
+- 👉 Fullstack web developer with interest on Javascript (MEAN stack),  but also write Java (Spring Boot) 
 - 🌱 I’m currently learning sequelize ORM on NodeJs.
 - 📫 You can contact me on aingaramangalahy@gmail.com
 
