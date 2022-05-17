@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aingaRamangalahy. 
 - 👉 Fullstack web developer with interest on Javascript (MEAN stack)
-- 🌱 I’m currently learning sequelize ORM on NodeJs.
+- 🌱 I’m currently learning Nest Js.
 - 📫 You can contact me on aingaramangalahy@gmail.com
 
 <!---
