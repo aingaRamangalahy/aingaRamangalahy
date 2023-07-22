@@ -9,8 +9,6 @@
 - Databases: MongoDB, MySQL
 - DevOps: Docker
 
-🔭 I'm constantly exploring new technologies and frameworks to stay up-to-date with the latest trends in web development.
-
 💡 I enjoy working on challenging projects and finding creative solutions to complex problems.
 
 🌱 I'm always learning and striving to improve my skills to deliver high-quality software.
