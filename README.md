@@ -4,7 +4,7 @@
 
 🌐 My Tech Stack:
 - JavaScript | TypeScript
-- Frontend: Angular, Vue.js, Nuxt.js, Next.js
+- Frontend: Angular, Vue.js, Nuxt.js
 - Backend: Node.js, Nest.js
 - Databases: MongoDB, MySQL
 - DevOps: Docker
