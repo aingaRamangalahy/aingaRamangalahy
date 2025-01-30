@@ -1,4 +1,4 @@
-# Hi there, I'm Ainga Ramangalahy! 👋
+# Hi there, I'm Ainga! 👋
 
 👨‍💻 I'm a Software Engineer with a passion for coding and building innovative solutions.
 
