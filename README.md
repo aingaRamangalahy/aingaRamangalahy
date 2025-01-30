@@ -13,7 +13,7 @@
 
 🌱 I'm always learning and striving to improve my skills to deliver high-quality software.
 
-📫 Let's connect! aingaramangalahy@gmail.com
+📫 Let's connect! aingaramangalahy@gmail.com  | https://www.linkedin.com/in/ainga-ramangalahy-2a98b014a/
 
 🚀 Let's collaborate and build amazing software together! ✨
 <!---
