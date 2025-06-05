@@ -1,6 +1,6 @@
 # Hi there, I'm Ainga! 👋
 
-👨‍💻 I'm a Software Engineer with a passion for coding and building innovative solutions.
+👨‍💻 I'm a Software Engineer with a passion for coding and building intuitive solutions.
 
 🌐 My Tech Stack:
 - JavaScript | TypeScript
@@ -13,9 +13,10 @@
 
 🌱 I'm always learning and striving to improve my skills to deliver high-quality software.
 
-📫 Let's connect! aingaramangalahy@gmail.com  | https://www.linkedin.com/in/ainga-ramangalahy-2a98b014a/
+🚀 Currently working on my side project jsresources.dev ✨
 
-🚀 Let's collaborate and build amazing software together! ✨
+📫 Let's connect! www.ainga.me | aingaramangalahy@gmail.com  | https://www.linkedin.com/in/ainga-ramangalahy-2a98b014a/
+
 <!---
 aingaRamangalahy/aingaRamangalahy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
